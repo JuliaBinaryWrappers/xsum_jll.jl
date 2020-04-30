@@ -1,0 +1,113 @@
+[[xsum]]
+arch = "i686"
+git-tree-sha1 = "10538ecc6fa3168aa38733fc1694a6242dbbfded"
+libc = "musl"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "1568aef83b44a15c20e4757557150adfaefa0e2c395a6a43849881c418e42896"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.i686-linux-musl.tar.gz"
+[[xsum]]
+arch = "aarch64"
+git-tree-sha1 = "79f75e6d70f3c2df236de5a4c2ad6006afa64d2b"
+libc = "musl"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "f858d8b09a5a02eacb887e02521ae042d95720ad53d75d6f23bd9d572e497860"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.aarch64-linux-musl.tar.gz"
+[[xsum]]
+arch = "i686"
+git-tree-sha1 = "c5744b59b3713adc142f2b9f2b48fd083a4bcdbc"
+os = "windows"
+
+    [[xsum.download]]
+    sha256 = "6a469d2eacad2e4d40559080410193ff9bb27b25b07ce89312b234033d1bb41f"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.i686-w64-mingw32.tar.gz"
+[[xsum]]
+arch = "x86_64"
+git-tree-sha1 = "beda8bec6cc2aacb16b745df87f82d258871108a"
+os = "windows"
+
+    [[xsum.download]]
+    sha256 = "996841177b8a49ae2ccba7c80b10436437c80e143ec7a46a395878eac200fcc4"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.x86_64-w64-mingw32.tar.gz"
+[[xsum]]
+arch = "armv7l"
+git-tree-sha1 = "b4615687c2ed1ca565d112183a91a0148eb5f128"
+libc = "glibc"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "15acbfea81cde5840c60aba1b35b17d5dc01b5613622cd9e2740e252ad01b109"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[xsum]]
+arch = "armv7l"
+git-tree-sha1 = "ea4b7ffdcc8c2f96c6ed6c992577ddb5834f4c93"
+libc = "musl"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "2de33ba0684ec141a822bdcce4169950a101b3c747989dc84eeb624290d316ae"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[xsum]]
+arch = "i686"
+git-tree-sha1 = "b86c4394bb09e2cc7c16a6a3876215f6f366435d"
+libc = "glibc"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "3707a04c421ad3efab5a6d0c7871f71c81294531e707c67d429093098c22ca76"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.i686-linux-gnu.tar.gz"
+[[xsum]]
+arch = "x86_64"
+git-tree-sha1 = "37337f333421db1823e5b9e40ea082a9722f9b71"
+libc = "glibc"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "a86c4cb84e43e1081bf2c56611be5ee1441c4b2b641105494c17342c118bc588"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[xsum]]
+arch = "powerpc64le"
+git-tree-sha1 = "8bae45ac3be2e89d3e11938e8ec9f6d11982b3c9"
+libc = "glibc"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "3da5783652449b1ca2a0ccaf87621b637c729735bfcc4c9a0056d1f517b9431a"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[xsum]]
+arch = "x86_64"
+git-tree-sha1 = "ebca52c27568b1818e37003ee14a4cbc19ae2aa0"
+os = "macos"
+
+    [[xsum.download]]
+    sha256 = "c4efbb8726d0630ba92f7a7aac59e9cd9bc5a7468aee9a06bb8dd029d442e6aa"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.x86_64-apple-darwin14.tar.gz"
+[[xsum]]
+arch = "aarch64"
+git-tree-sha1 = "86f48c0b425f47cf3e074cbc6c87edfbe42f13ce"
+libc = "glibc"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "03ac3a4b3196bf2a9abfe74788bb3a7994155d275202900020509b9625b9f101"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[xsum]]
+arch = "x86_64"
+git-tree-sha1 = "2953ba91304c43b54386c1b4567d5da253cd3ed6"
+os = "freebsd"
+
+    [[xsum.download]]
+    sha256 = "aba8eaa4e44337dfe1b017675f2ce06acb8e7e87964c1f0ec501c067257695a8"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[xsum]]
+arch = "x86_64"
+git-tree-sha1 = "0baf1eb19e5538a226e51c9070ef4a77a7660c3b"
+libc = "musl"
+os = "linux"
+
+    [[xsum.download]]
+    sha256 = "0e3ff0a617fae088a63f6c7346ae74cd65fabf802adb126c58990408909a0f69"
+    url = "https://github.com/JuliaBinaryWrappers/xsum_jll.jl/releases/download/xsum-v1.0.0+0/xsum.v1.0.0.x86_64-linux-musl.tar.gz"
